@@ -69,20 +69,20 @@ const Hero = () => {
             animate={{ opacity: 1 }}
             transition={{ delay: 2 }}
           >
-            <Link 
-              to="#projects" 
+            <a 
+              href="#projects" 
               className="px-6 py-2 bg-transparent border border-white/50 text-white font-mono text-sm hover:bg-white/10 hover:border-white transition-all duration-300 relative overflow-hidden group"
             >
               <span className="absolute inset-0 bg-white/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></span>
               <span className="relative z-10">VIEW_PROJECTS</span>
-            </Link>
-            <Link 
-              to="#contact" 
+            </a>
+            <a
+              href="#contact" 
               className="px-6 py-2 bg-white/90 text-black font-mono text-sm hover:bg-white transition-all duration-300 relative overflow-hidden group"
             >
               <span className="absolute inset-0 bg-black/5 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></span>
               <span className="relative z-10">CONTACT_ME</span>
-            </Link>
+            </a>
           </motion.div>
         </div>
 
