@@ -207,7 +207,7 @@ const projects = [
   },
    {
      id: 'project-3',
-     name: 'Proctoring App',
+     name: 'Proctored Anti Cheating System',
      description: 'This is a single-page calculator app built with React',
      tags: [
        {
@@ -226,7 +226,7 @@ const projects = [
      image: math,
     // repo: 'https://github.com/shaqdeff/Math-Magicians',
     demo: 'https://procture.netlify.app/',
-  // },
+   },
   {
     id: 'project-4',
     name: 'JARVIS',
