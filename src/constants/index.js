@@ -225,7 +225,7 @@ const projects = [
      ],
      image: math,
     // repo: 'https://github.com/shaqdeff/Math-Magicians',
-    demo: 'https://procture.netlify.app/',
+    demo: 'https://procture-m.netlify.app',
    },
   {
     id: 'project-4',
