@@ -108,7 +108,7 @@ const technologies = [
 },
    {
      name: 'Flutter',
-     icon: 'https://flutter.dev/assets/flutter-logo.6ed04a8cd70b7aa540c6ec302a4e936c.svg',
+     icon: 'https://img.icons8.com/?size=512&id=IBhkA_tC0up8&format=png',
    },
    {
      name: 'postgresql',
