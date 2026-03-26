@@ -108,7 +108,7 @@ const technologies = [
 },
    {
      name: 'NextJS',
-     icon: graphql,
+     icon: 'https://flutter.dev/assets/flutter-logo.6ed04a8cd70b7aa540c6ec302a4e936c.svg',
    },
    {
      name: 'postgresql',
