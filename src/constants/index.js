@@ -106,14 +106,14 @@ const technologies = [
   name: 'MySQL',
   icon: mysql,
 },
-  // {
-  //   name: 'NextJS',
-  //   icon: graphql,
-  // },
-  // {
-  //   name: 'postgresql',
-  //   icon: postgresql,
-  // },
+   {
+     name: 'NextJS',
+     icon: graphql,
+   },
+   {
+     name: 'postgresql',
+     icon: postgresql,
+   },
   {
     name: 'git',
     icon: git,
