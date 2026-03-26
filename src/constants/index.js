@@ -107,7 +107,7 @@ const technologies = [
   icon: mysql,
 },
    {
-     name: 'NextJS',
+     name: 'Flutter',
      icon: 'https://flutter.dev/assets/flutter-logo.6ed04a8cd70b7aa540c6ec302a4e936c.svg',
    },
    {
